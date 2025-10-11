@@ -283,4 +283,32 @@ aside p {
     #top {
         background-position: center;
     }
+
+    .main-title {
+        margin-top: 40px;
+    }
+
+    .news-contents {
+        display: block;
+    }
+
+    article {
+        width: 90%;
+        margin-bottom: 30px;
+    }
+
+    .post-title {
+        font-size: 1.5rem;
+        padding-top: 0;
+    }
+
+    .post-date {
+        height: 70px;
+        padding-top: 10px;
+    }
+
+    aside {
+        width: 90%;
+        margin-left: 3%;
+    }
 }
